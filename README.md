@@ -1,1 +1,1 @@
-# Psi_Chi_Jupyter
+# Jupyter
